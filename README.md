@@ -9,14 +9,14 @@
 - 👯 HTML, CSS, ReactJS [NFT Marketplace](https://phamthuy21.github.io/nft-marketplace/)
 
 - 🤝 HTML, CSS, JavaScript, Jquery, Slick slider, Wowjs [Lang Thang Travel](https://phamthuy21.github.io/langthangtravel/)
-
+https://github.com/phamthuy21/phamthuy21/blob/master/README.md
 - 👨‍💻 All of my projects are available at [https://github.com/phamthuy21](https://github.com/phamthuy21)
 
 - 💬 Ask me about **ReactJS, HTML, CSS, SASS, Bootstrap, Tailwinds,**
 
 - 📫 How to reach me **phamthuy2192001@gmail.com**
 
-- 📄 My experiences [No experience](No experience)
+- 📄 My experiences: I’m a Full Stack Software Engineer with 2 Years of experiences in developing Modern Websites using Outsystems Low-code platform
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
