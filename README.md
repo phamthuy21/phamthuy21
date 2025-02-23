@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.tgdd.vn/Files/2018/07/06/1099621/front-end-developers-openings_680x428.gif">
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m a Full Stack Software Engineer with 2 Years of experiences in developing Modern Websites using **Outsystems Low-code** platform
 
 - 🔭 ReactJS, React-Router, Typewriter, React Slick [E-commerce](https://e-commerce-reactjs-pdt.herokuapp.com/)
 
@@ -12,11 +12,9 @@
 https://github.com/phamthuy21/phamthuy21/blob/master/README.md
 - 👨‍💻 All of my projects are available at [https://github.com/phamthuy21](https://github.com/phamthuy21)
 
-- 💬 Ask me about **ReactJS, HTML, CSS, SASS, Bootstrap, Tailwinds,**
+- 💬 Ask me about **Outsystems, SQL Server, MySQL, Oracle, ReactJS, HTML, CSS, SASS, Bootstrap, Tailwinds**
 
 - 📫 How to reach me **phamthuy2192001@gmail.com**
-
-- 📄 My experiences: I’m a Full Stack Software Engineer with 2 Years of experiences in developing Modern Websites using Outsystems Low-code platform
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
